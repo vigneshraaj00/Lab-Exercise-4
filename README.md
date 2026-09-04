@@ -1,7 +1,7 @@
 # Lab-Exercise-4
  **Name:** Vignesh Raaj
  **Reg No:** 212223230239
- **Dtae:** 21/08/2026
+ **Date:** 21/08/2026
 
 ## Aim:
 
